@@ -1,0 +1,20 @@
+@import 'vars';
+@import 'mixins';
+
+/* Overlay */
+
+	#overlay {
+		opacity: 1;
+	}
+	
+/* Header */
+
+	#header {
+		opacity: 1;
+
+		nav {
+			li {
+				opacity: 1;
+			}
+		}
+	}
